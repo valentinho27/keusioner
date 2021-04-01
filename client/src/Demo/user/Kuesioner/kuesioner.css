@@ -1,0 +1,7 @@
+.cardKuesioner {
+    width: 100%;
+    border-radius: 50px;
+    background: #eeeeee;
+    box-shadow: 20px 20px 60px #cacaca, -20px -20px 60px #ffffff;
+    border: none
+}
